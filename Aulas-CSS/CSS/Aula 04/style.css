@@ -1,0 +1,42 @@
+* {
+    margin: 16;
+    padding: 20;
+    color: #000;
+
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    list-style-position: inside;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 10px;
+    padding: 5;
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    /* border-top: 5px double cadetblue;
+    border-right: violet;
+    border-bottom: cadetblue;
+    border-left: violet;
+    border-style: solid; */
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+
+img {
+    height: 400px;
+    alt: "";
+}
+
+figure {
+    text-align: center;
+    border: 2px solid ;
+    background-color: darkorchid;
+}
+
+figcaption {
+
+}

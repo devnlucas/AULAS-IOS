@@ -1,0 +1,19 @@
+body {
+    background-color: cadetblue;
+}
+
+.corFundo {
+    background-color: aquamarine;
+    color: rgb(8, 8, 8);
+}
+
+.corFundoParagrafo {
+    background-color: cadetblue;
+    color: rgb(7, 7, 7);
+}
+
+.titulo {
+    font-size: 2em;
+    color: rgb(7, 7, 7);
+    text-align: center;
+}   

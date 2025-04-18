@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 15px;
+    text-shadow: none;
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-top: auto;
+    color: aliceblue;
+
+    padding: 10px;
+    padding-bottom: 15px;
+}
+
+body {
+    background-color: rgb(120, 168, 170);
+    background-image: url(../../Imagens/download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+header {
+    height: 6vh;
+}
+
+main {
+    height: 100vh;
+}
+

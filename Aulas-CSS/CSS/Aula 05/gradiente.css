@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+   background-image: linear-gradient( to left, blue, rgb(164, 164, 245));
+}
+
+figure {
+    text-align: center;
+    width: 50px;
+    margin: 70px auto;
+}
+
+img {
+    filter: drop-shadow(15px 15px 10px rgb(253, 2, 2));
+}
